@@ -8,7 +8,7 @@ To separate them, just add an empty line that starts with >
 > Like
 >
 > This
-To make a list, use > -
+To make a list, use > -  
 > #### To-do list
 > - Buy soap
 > - Check your bank account
